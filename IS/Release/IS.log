@@ -1,0 +1,10 @@
+﻿  main.cpp
+c:\users\user\source\repos\is\is\main.cpp(136): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\user\source\repos\is\is\main.cpp(140): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\user\source\repos\is\is\main.cpp(173): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода
+  6 of 27 functions (22.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    7 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  IS.vcxproj -> C:\Users\user\source\repos\IS\Release\IS.exe
